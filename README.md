@@ -1,3 +1,3 @@
 # EXAMPLE
 
-Hello world ! 
+Hello world
